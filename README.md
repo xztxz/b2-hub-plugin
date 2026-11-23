@@ -56,3 +56,7 @@ plugin/
   client.js         侧栏面板（React，单文件）
   test/             node --test
 ```
+
+## 许可证
+
+[MIT](LICENSE) © 2026 xztxz
