@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "B2 中枢",
+    "description": "从 B2 Markdown 库读取笔记与任务；B2 笔记/任务中枢的第一个宿主。",
+    "detail": "docs/DETAIL.md"
+  }
+}

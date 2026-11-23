@@ -1,0 +1,2 @@
+# 插件写出的文件固定 UTF-8 无 BOM + LF，仓库里的源码也统一 LF
+* text=auto eol=lf

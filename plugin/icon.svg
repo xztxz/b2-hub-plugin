@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="B2 hub">
+  <g stroke="#4C6EF5" stroke-width="2" stroke-linecap="round">
+    <path d="M18 18 L9.5 10.5"/>
+    <path d="M18 18 L26.5 10.5"/>
+    <path d="M18 18 L18 28"/>
+  </g>
+  <circle cx="9.5" cy="10.5" r="3.4" fill="#748FFC"/>
+  <circle cx="26.5" cy="10.5" r="3.4" fill="#748FFC"/>
+  <circle cx="18" cy="28" r="3.4" fill="#9775FA"/>
+  <circle cx="18" cy="18" r="5.2" fill="#4C6EF5"/>
+</svg>

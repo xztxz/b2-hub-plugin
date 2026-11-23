@@ -1,0 +1,7 @@
+- insert:
+    - id: b2-hub
+      name: '@local/b2-hub'
+      config:
+        # 可移植写法：`~` 由插件展开成当前用户家目录，换电脑不用改配置。
+        # 也可以在面板 ⚙ 设置里改成任意目录（绝对路径、%USERPROFILE% 都行）。
+        root: '~/vault/B2'

@@ -1,0 +1,11 @@
+# 内部交接笔记，不公开（含本机绝对路径）
+HANDOFF.md
+
+# 依赖与系统噪音
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# 原子写留下的临时文件（正常不会出现）
+.b2-*.tmp
